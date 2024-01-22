@@ -8,13 +8,13 @@ streamlit run app.py
 ~~~
 
 # User Interface of the application
-![User Interface 1](./UI/Basic%20UI.jpg)
+![User Interface 1](./UI/home_page.jpg)
 
 # Add the Job Description from linkedin and upload the resume
-![Resume uploaded](./UI/Uploaded%20Resume.jpg)
+![Resume uploaded](./UI/uploaded_pdf.jpg)
 
 # Resume summarry strengths and weakness after pressing tell me about resume
-![Resume Summary](./UI/Resume%20summary.jpg)
+![Resume Summary](./UI/Strengths.jpg)
 
 # Resume matching percentage after pressing button percentage match
-![Percentage Match](./UI/Percentage%20Match.jpg)
+![Percentage Match](./UI/Percentage%20match.jpg)

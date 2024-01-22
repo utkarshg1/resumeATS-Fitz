@@ -54,12 +54,13 @@ submit2 = st.button("Percentage match")
 input_prompt1 = """ You are an experience Human Resource Manager with Technology experience in field of Data Science, Full Stack web developer,
                     Big Data Engineering, Data Analyst and Devops. Your task is to review the provided resume against the job description for
                     this profile. Please share your professional evaluation on whether the candidate's profile aligns with the role. 
-                    Highlight the strengths and weaknesses of the applicant in relation to the specified job requirements."""
+                    Highlight the strengths and weaknesses of the applicant in relation to the specified job description.
+                    The strengths and weaknesess should be shown in bullet points only."""
 
 input_propmt2 = """You are a skilled ATS (Application Tracking System) scanner with deep understanding of data science,Full Stack web developer,
                     Big Data Engineering, Data Analyst, Devops and deep ATS functionality. Your task is to evaluate the resume against the provided job description.
-                    give me the percentage of match if the resume matches the job description. First the output should come as percentage and 
-                    then keywords missing and last final thoughts."""
+                    give me the percentage of match if the resume matches the job description. Ensure you search for candidate skills thoroughly 
+                    First the output should come as percentage and then keywords missing in resume (when compared with Job Description) and last final thoughts both in bullet points."""
 
 if submit1:
     if uploaded_file is not None:
