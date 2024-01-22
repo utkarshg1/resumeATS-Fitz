@@ -1,6 +1,9 @@
 # Resume-ATS
 This is an Resume ATS tracking system developed using Google Gemini Pro.
 
+# Streamlit application link
+Link of streamlit deployment : [https://resume-ats-utkarsh-gaikwad.streamlit.app/](https://resume-ats-utkarsh-gaikwad.streamlit.app/)
+
 # How to run this app
 In VS Code type below command
 ~~~cmd 
